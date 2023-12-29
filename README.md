@@ -11,3 +11,8 @@ En el desarrollo se tuvieron presentes la construccion de clases, y metodos para
 
 # Estado del Proyecto
 Este proyecto seguirá actualmente en desarrollo y no se recomienda su uso en entornos de producción.
+
+# Capturas
+
+![Image1](https://github.com/EMBayonaOliveros/EdwinOliveros/assets/126587578/df71255e-8edd-4e15-88cb-3a637fdcfd7b)
+![Image2](https://github.com/EMBayonaOliveros/EdwinOliveros/assets/126587578/fe245c31-9e05-47b2-b7c4-93157b03eb3b)
